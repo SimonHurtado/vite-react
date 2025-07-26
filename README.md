@@ -29,8 +29,3 @@ El asistente responde preguntas frecuentes, ofrece soporte básico y guía a los
 
 ## Instrucciones de desarrollo
 
-### 1. Clona el proyecto
-
-```bash
-git clone https://github.com/TU_USUARIO/chatbot-inglean.git
-cd chatbot-inglean

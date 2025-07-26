@@ -1,21 +1,36 @@
-# React + TypeScript + Vite
+# Chatbot INGELEAN – Hackatón Grupo 19
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un asistente virtual inteligente diseñado para mejorar la atención al cliente de INGELEAN S.A.S., una empresa ubicada en Pereira, especializada en automatización industrial, desarrollo de software e inteligencia artificial.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+El asistente responde preguntas frecuentes, ofrece soporte básico y guía a los clientes según el contexto de negocio.
 
-## Deploy Your Own
+---
 
-Deploy your own Vite project with Vercel.
+## Funcionalidades
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+- Interfaz moderna y responsiva con React + Tailwind CSS
+- Integración con modelos de lenguaje mediante OpenRouter API
+- Limitación de temas a lo relacionado con INGELEAN
+- Soporte para múltiples turnos de conversación
+- Respuestas en tiempo real con animación de carga
 
-_Live Example: https://vite-react-example.vercel.app_
+---
 
-### Deploying From Your Terminal
+## Tecnologías utilizadas
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+| Herramienta         | Propósito                          |
+|---------------------|------------------------------------|
+| React + Vite        | Frontend ligero y rápido           |
+| Tailwind CSS        | Estilos modernos y responsive      |
+| OpenRouter API      | Motor de IA gratuito               |
+| Lucide React        | Iconos para interfaz               |
 
-```shell
-$ vercel
-```
+---
+
+## Instrucciones de desarrollo
+
+### 1. Clona el proyecto
+
+```bash
+git clone https://github.com/TU_USUARIO/chatbot-inglean.git
+cd chatbot-inglean
